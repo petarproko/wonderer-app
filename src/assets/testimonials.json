@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Jack Rodriguez",
+    "country": "Canada",
+    "image": "images/testemonialUser.png",
+    "rating": 4,
+    "review": "Wanderer made our Iceland trip so easy and stress-free. We'll definitely book with them again!"
+  },
+  {
+    "id": 2,
+    "name": "Emma Thompson",
+    "country": "United Kingdom",
+    "image": "images/testemonialUser.png",
+    "rating": 5,
+    "review": "Everything was perfectly organized, from the hotels to the guided tours. Our trip to Italy was unforgettable!"
+  },
+  {
+    "id": 3,
+    "name": "Lucas Martin",
+    "country": "France",
+    "image": "images/testemonialUser.png",
+    "rating": 5,
+    "review": "The team helped us discover hidden gems in Japan that we would never have found on our own. Highly recommended!"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Williams",
+    "country": "Australia",
+    "image": "images/testemonialUser.png",
+    "rating": 4,
+    "review": "Booking was simple, communication was excellent, and the destinations were breathtaking. I would happily travel with Wanderer again."
+  },
+  {
+    "id": 5,
+    "name": "Oliver Schmidt",
+    "country": "Germany",
+    "image": "images/testemonialUser.png",
+    "rating": 5,
+    "review": "Our family holiday in Greece exceeded every expectation. The itinerary was balanced, relaxing, and full of amazing experiences."
+  },
+  {
+    "id": 6,
+    "name": "Isabella Rossi",
+    "country": "Italy",
+    "image": "images/testemonialUser.png",
+    "rating": 5,
+    "review": "From the first inquiry to the journey home, everything went smoothly. Wanderer made planning a vacation feel effortless."
+  },
+  {
+    "id": 7,
+    "name": "Noah Anderson",
+    "country": "United States",
+    "image": "images/testemonialUser.png",
+    "rating": 4,
+    "review": "Great destinations, friendly support, and excellent value for money. Our Swiss Alps adventure was the highlight of the year!"
+  }
+]

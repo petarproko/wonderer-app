@@ -5,4 +5,8 @@
   --color-primary: #264653;
   --color-secondary: #ED7B4F;
   --color-background: #F4A261;
+
+  --shadow-tour: 0 8px 30px rgba(0, 48, 73, 0.08);
+  --shadow-tour-hover: 0 15px 40px rgba(0, 48, 73, 0.14);
+  --shadow-testimonial: 0 8px 30px rgba(0, 48, 73, 0.06);
 }

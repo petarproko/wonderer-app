@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "country": "Greece",
+    "title": "Santorini Getaway",
+    "description": "Relax on sunny beaches and enjoy spectacular Mediterranean sunsets.",
+    "image": "images/destination.png",
+    "imageAlt": "Santorini, Greece",
+    "duration": "5 days",
+    "price": 999,
+    "currency": "USD"
+  },
+  {
+    "id": 2,
+    "country": "Italy",
+    "title": "Romantic Rome",
+    "description": "Discover ancient landmarks, charming streets, and authentic Italian cuisine.",
+    "image": "images/rome.png",
+    "imageAlt": "Rome, Italy",
+    "duration": "4 days",
+    "price": 799,
+    "currency": "USD"
+  },
+  {
+    "id": 3,
+    "country": "France",
+    "title": "Paris Escape",
+    "description": "Explore iconic landmarks, cozy cafés, and the timeless charm of Paris.",
+    "image": "images/paris.png",
+    "imageAlt": "Paris, France",
+    "duration": "5 days",
+    "price": 1199,
+    "currency": "USD"
+  },
+  {
+    "id": 4,
+    "country": "Japan",
+    "title": "Tokyo Adventure",
+    "description": "Experience vibrant city life, traditional temples, and incredible Japanese food.",
+    "image": "images/tokyo.png",
+    "imageAlt": "Tokyo, Japan",
+    "duration": "7 days",
+    "price": 1899,
+    "currency": "USD"
+  },
+  {
+    "id": 5,
+    "country": "Indonesia",
+    "title": "Bali Paradise",
+    "description": "Unwind on tropical beaches, explore lush rice terraces, and visit ancient temples.",
+    "image": "images/bali.png",
+    "imageAlt": "Bali, Indonesia",
+    "duration": "6 days",
+    "price": 1399,
+    "currency": "USD"
+  },
+  {
+    "id": 6,
+    "country": "Switzerland",
+    "title": "Swiss Alps Retreat",
+    "description": "Enjoy breathtaking mountain scenery, peaceful lakes, and picturesque villages.",
+    "image": "images/switzerland.png",
+    "imageAlt": "Swiss Alps, Switzerland",
+    "duration": "5 days",
+    "price": 1599,
+    "currency": "USD"
+  },
+  {
+    "id": 7,
+    "country": "Spain",
+    "title": "Barcelona Discovery",
+    "description": "Admire Gaudí's architecture, stroll along the coast, and savor Spanish tapas.",
+    "image": "images/barcelona.png",
+    "imageAlt": "Barcelona, Spain",
+    "duration": "4 days",
+    "price": 899,
+    "currency": "USD"
+  }
+]
